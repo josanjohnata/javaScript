@@ -16,3 +16,4 @@ if(allAnglesArePositives){
 } else {
   console.log('Erro: ângulo inválido');
 }
+console.log(allAnglesArePositives);
