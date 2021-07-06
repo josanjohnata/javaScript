@@ -1,4 +1,4 @@
-let n = 5;
+let n = 11;
 let symbol = '*';
 let inputLine = '';
 
